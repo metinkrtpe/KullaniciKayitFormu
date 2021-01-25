@@ -13,6 +13,8 @@
 		0E38594725BEFD2C000085D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E38594525BEFD2C000085D7 /* Main.storyboard */; };
 		0E38594925BEFD30000085D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E38594825BEFD30000085D7 /* Assets.xcassets */; };
 		0E38594C25BEFD30000085D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E38594A25BEFD30000085D7 /* LaunchScreen.storyboard */; };
+		0E38595525BEFD5F000085D7 /* arkaplan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E38595425BEFD5F000085D7 /* arkaplan.jpg */; };
+		0E38595825BEFF70000085D7 /* arkaplan2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E38595725BEFF6F000085D7 /* arkaplan2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		0E38594825BEFD30000085D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E38594B25BEFD30000085D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E38594D25BEFD30000085D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E38595425BEFD5F000085D7 /* arkaplan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arkaplan.jpg; sourceTree = "<group>"; };
+		0E38595725BEFF6F000085D7 /* arkaplan2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arkaplan2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				0E38594325BEFD2C000085D7 /* ViewController.swift */,
 				0E38594525BEFD2C000085D7 /* Main.storyboard */,
 				0E38594825BEFD30000085D7 /* Assets.xcassets */,
+				0E38595725BEFF6F000085D7 /* arkaplan2.jpg */,
+				0E38595425BEFD5F000085D7 /* arkaplan.jpg */,
 				0E38594A25BEFD30000085D7 /* LaunchScreen.storyboard */,
 				0E38594D25BEFD30000085D7 /* Info.plist */,
 			);
@@ -125,6 +131,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E38594C25BEFD30000085D7 /* LaunchScreen.storyboard in Resources */,
+				0E38595825BEFF70000085D7 /* arkaplan2.jpg in Resources */,
+				0E38595525BEFD5F000085D7 /* arkaplan.jpg in Resources */,
 				0E38594925BEFD30000085D7 /* Assets.xcassets in Resources */,
 				0E38594725BEFD2C000085D7 /* Main.storyboard in Resources */,
 			);
